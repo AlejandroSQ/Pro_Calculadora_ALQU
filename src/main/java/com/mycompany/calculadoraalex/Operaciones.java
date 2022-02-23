@@ -9,5 +9,16 @@ package com.mycompany.calculadoraalex;
  * @author alex
  */
 public class Operaciones {
+ 
     
+    public static int ActividadSM(int a, int b){
+        return a + b;
+        
+    } 
+    
+    public static int ActividadRS(int a, int b){
+        return a - b;
+        
+        
+    }
 }
