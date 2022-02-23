@@ -9,5 +9,8 @@ package com.mycompany.calculadoraalex;
  * @author alex
  */
 public class Operaciones {
+  public static int Suma_tres_parametros( int a, int b, int c){
+   return a + b + c;
     
+}
 }
