@@ -9,6 +9,7 @@ package com.mycompany.calculadoraalex;
  * @author alex
  */
 public class Operaciones {
+
  
     
     public static int ActividadSM(int a, int b){
@@ -21,4 +22,13 @@ public class Operaciones {
         
         
     }
+
+    public static Multi ( int a, int b ){
+	return a * b;
+
+}
+  public static Div ( int a, int b ){
+	return a / b;
+
+}
 }
